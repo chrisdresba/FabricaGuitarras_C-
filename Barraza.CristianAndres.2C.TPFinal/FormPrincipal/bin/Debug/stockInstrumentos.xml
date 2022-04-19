@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuitarra xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Guitarra xsi:type="Acustica">
+    <modelo>Washburn M18</modelo>
+    <categoria>Acustica</categoria>
+    <clavijas>TresMasTres</clavijas>
+    <color>Negro</color>
+    <encordado>DaddarioAcustica</encordado>
+    <Modelo>Washburn M18</Modelo>
+    <Categoria>Acustica</Categoria>
+    <ecualizador>Si</ecualizador>
+  </Guitarra>
+  <Guitarra xsi:type="Clasica">
+    <modelo>Alpujarra80</modelo>
+    <categoria>Clasica</categoria>
+    <clavijas>ClasicaNacional</clavijas>
+    <color>Negro</color>
+    <encordado>ErnieBallClasica</encordado>
+    <Modelo>Alpujarra80</Modelo>
+    <Categoria>Clasica</Categoria>
+    <ecualizador>Si</ecualizador>
+  </Guitarra>
+  <Guitarra xsi:type="Electrica">
+    <modelo>Prs 335</modelo>
+    <categoria>Electrica</categoria>
+    <clavijas>TresMasTres</clavijas>
+    <color>Verde</color>
+    <encordado>ErnieBallElectrica</encordado>
+    <Modelo>Prs 335</Modelo>
+    <Categoria>Electrica</Categoria>
+    <microfonos>DosHumbucker</microfonos>
+  </Guitarra>
+  <Guitarra xsi:type="Electrica">
+    <modelo>Fender Stratocaster</modelo>
+    <categoria>Electrica</categoria>
+    <clavijas>SeisEnLinea</clavijas>
+    <color>Natural</color>
+    <encordado>DaddarioElectrica</encordado>
+    <Modelo>Fender Stratocaster</Modelo>
+    <Categoria>Electrica</Categoria>
+    <microfonos>TresSimple</microfonos>
+  </Guitarra>
+</ArrayOfGuitarra>
